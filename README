@@ -1,0 +1,26 @@
+THIEF by rnd, 2016
+
+
+---------------------------------------------------------------------
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+----------------------------------------------------------------------
+
+
+HOW TO USE:
+-----------
+0. craft glove, equip it. 
+1. To CLOAK (hide) your name temporarily use glove while not pointing at any player.
+2. To STEAL: sneak behind player, point at him and use glove. After that wait 5s before using glove again and then you can take one item from players pockets (top inventory row only).
+3. whenever you steal succesfuly you get 0.1 experience. More experience increases cloak time.
+4. if you get caught you will lose 0.5 experience.
