@@ -23,4 +23,5 @@ HOW TO USE:
 1. To CLOAK (hide) your name temporarily use glove while not pointing at any player.
 2. To STEAL: sneak behind player, point at him and use glove. After that wait 5s before using glove again and then you can take one item from players pockets (top inventory row only).
 3. whenever you steal succesfuly you get 0.1 experience. More experience increases cloak time.
-4. if you get caught you will lose 0.5 experience.
+4. when you have at least 1 experience you can confuse victims (hold JUMP while using glove), slowing them down to 33% speed for 10s
+5. don't get caught. If you do, everyone will know you are thief and you will lose 0.5 experience.

@@ -55,6 +55,10 @@ minetest.register_tool("thief:gloves", {
 		if not player2:is_player() then return end
 
 		if pjump then -- SLOW
+			if thiefxp[name]<1 then
+				minetest.chat_send_player(name,"#THIEF: you need at least 1 xp to use slow.");
+				return
+			end
 			local speed0 = player2:get_physics_override().speed;
 			if speed0<0.8 then return end -- normal player speed
 			player2:set_physics_override({speed=0.33*speed0});
